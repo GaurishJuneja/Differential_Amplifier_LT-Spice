@@ -20,7 +20,7 @@ Transient_70_9.5.png
 Transient_120_9.5.png
 Transient_70_15.png             -> Transient Analysis waveforms
 
-CMOS180.txt                     -> 
+CMOS180.txt                     -> CMOS 180 nm MOSFET model file used for simulation
 
 *.raw
 *.log                           -> LTspice-generated simulation files (not required for understanding the project)
