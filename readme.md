@@ -199,5 +199,4 @@ Possible extensions to this project include:
 ---
 
 ## Author
-
-This project was developed to explore the behavior of CMOS differential amplifiers through simulation and parameter variation using LTspice.
+Gaurish Juneja
