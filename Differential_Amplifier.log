@@ -1,0 +1,31 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\gauri\OneDrive\Desktop\Differential Amplifier Project\Differential_Amplifier.net
+Start Time: Sun Jun 28 15:34:49 2026
+C:\Users\gauri\OneDrive\Desktop\CMOS180.txt(174): Ignoring unknown model parameter. This may or may not be a problem.
+.model dwell d cj0=2e-4 is=1e-5 m=0.5 pb=0.8
+                                      ^^^^^^
+Ignoring BSIM parameter ACM
+Ignoring BSIM parameter HDIF
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter ACM
+Ignoring BSIM parameter HDIF
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.129 seconds.
+
+Files loaded:
+C:\Users\gauri\OneDrive\Desktop\Differential Amplifier Project\Differential_Amplifier.net
+C:\Users\gauri\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Users\gauri\OneDrive\Desktop\CMOS180.txt
+
